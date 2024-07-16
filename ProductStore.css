@@ -1,0 +1,42 @@
+nav h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-size: x-large;
+}
+.part1{
+    margin-left: 40px;
+    font-size: larger;
+    font-family: arial;
+}
+.part2{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: larger;
+    font-family: arial;
+    padding-top: -20px;
+    
+}
+.part2 #pm{
+border: -4px solid;
+margin-left: 20px;
+padding: 4px 4px;
+}
+.part2 #pv{
+    border: -4px solid;
+    margin-left: 20px;
+    padding: 4px 4px;
+}
+button{
+    background-color: rgb(158, 59, 158);
+    color: white;
+    padding: 7px 7px;
+    margin-top: 10px;
+    margin-left: 50px;  
+    padding-right: 15px;
+    padding-left: 15px;
+}
+button:hover{
+    color: rgb(151, 144, 144);
+}
